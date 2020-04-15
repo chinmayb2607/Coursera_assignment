@@ -5,5 +5,5 @@ README:
 	echo Make was run on  >> README.md
 	date >> README.md
 	echo code contains >> README.md
-	wc -l >> README.md
+	wc -l guessinggame.sh >> README.md
 
