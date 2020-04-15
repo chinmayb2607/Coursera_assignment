@@ -6,4 +6,5 @@ README:
 	date >> README.md
 	echo code contains >> README.md
 	wc -l guessinggame.sh >> README.md
+	echo ThankYou
 
